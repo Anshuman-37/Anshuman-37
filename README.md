@@ -14,8 +14,9 @@
 
 #### My Git Stats 
 
+
 | 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshuman-37&count_private=true&show_icons=true&title_color=#FF0000&icon_color=#48F6F6&text_color=#FFFFFF&bg_color=#000000&include_all_commits=true&hide_rank=true&count_private=true" width="50%" height="100%"/> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshuman-37&theme=tokyonight&count_private=true&show_icons=true&title_color=#FF0000&icon_color=#48F6F6&text_color=#FFFFFF&bg_color=#000000&include_all_commits=true&hide_rank=true&count_private=true" width="50%" height="100%"/> |
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-37&langs_count=16&layout=compact&theme=radical" width="37%" height="35%"/> |
 
 
