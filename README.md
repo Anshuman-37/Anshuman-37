@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Anshuman-37/Anshuman-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 <!-- - 📫 How to reach me: -->
 ![](https://komarev.com/ghpvc/?username=Anshuman-37&color=dc143c&tyle=plastic)
 
-#### My Git Stats 
+### My Git Stats 
 
 
 | 
