@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I like to learn, and doing things by hands it makes me comfortable with things and help me improve
 
 <!-- - 📫 How to reach me: -->
-![](https://komarev.com/ghpvc/?username=Anshuman-37&color=dc143c&tyle=plastic)
+[![Github Badge](https://komarev.com/ghpvc/?username=Anshuman-37&color=dc143c&tyle=plastic)](https://github.com/anshuman-37)
+[![Github Badge](https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-Black?style=flat&logo=reverbnation&logoColor=white&link=https://github.com/anshuman-37)](https://github.com/anshuman-37)
 
 ### My Git Stats 
 
