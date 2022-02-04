@@ -12,6 +12,7 @@
 <!-- - 📫 How to reach me: -->
 [![Github Badge](https://komarev.com/ghpvc/?username=Anshuman-37&color=dc143c&tyle=plastic)](https://github.com/anshuman-37)
 [![Github Badge](https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-Black?style=flat&logo=reverbnation&logoColor=white&link=https://github.com/anshuman-37)](https://github.com/anshuman-37)
+[![HitCount](http://hits.dwyl.com/anshuman-37/anshuman-37.svg)](http://hits.dwyl.com/anshuman-37/anshuman-37)
 
 ### My Git Stats 
 
